@@ -10,7 +10,7 @@ exports.db = {
 		// "database" : "cmpe_282",
 		
 		//AWS
-		"host" : "mydb.cwvz0jc9ipyp.us-west-2.rds.amazonaws.com",
+		"host" : "mydb1.cwvz0jc9ipyp.us-west-2.rds.amazonaws.com",
 		"port" : 3306,
 		"user" : "username",
 		"password" : "password1",
